@@ -170,6 +170,7 @@ mimo
 mna
 mną
 mnie
+móc
 moga
 mogą
 moi
@@ -267,6 +268,8 @@ sobą
 sobie
 sposob
 sposób
+swoim
+swój
 swoje
 ta
 tak
