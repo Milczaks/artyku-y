@@ -173,6 +173,7 @@ mnie
 moga
 mogą
 moi
+mieć
 moim
 moj
 moja
